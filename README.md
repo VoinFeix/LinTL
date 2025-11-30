@@ -56,7 +56,7 @@
 ## ⚒️ Installations
 1. Clone the repository
 ```bash
-git clone https://github.com/DevManoj96/LinTL.git
+git clone https://github.com/VoinFeix/LinTL.git
 ```
 
 2. Install the requirements
